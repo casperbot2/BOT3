@@ -2,7 +2,7 @@
 const client = new Discord.Client();
 const client2 = new Discord.Client();
 const myid = ['462325953591377920'];
-const prefix = ['$'];
+const prefix = ['!'];
 
 client.on('ready', () => {
    console.log(`----------------`);
